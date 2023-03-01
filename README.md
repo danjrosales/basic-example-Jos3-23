@@ -10,4 +10,5 @@ Read the test output and update the index.html files to make the tests pass.
 `npm install`
 
 ### Run tests  
-- `npm exec html-validate index.html`
+- `
+`
